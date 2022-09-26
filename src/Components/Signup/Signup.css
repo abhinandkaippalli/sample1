@@ -1,0 +1,9 @@
+.signup label {
+    display: block;
+}
+
+.signup {
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
