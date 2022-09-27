@@ -1,0 +1,27 @@
+.navbar {
+    background-color: black;
+
+}
+
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.link{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar link{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 129px;
+}

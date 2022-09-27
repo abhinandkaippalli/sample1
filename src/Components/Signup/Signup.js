@@ -3,7 +3,7 @@ import './Signup.css';
 import validation from "../validation";
 
 
-function Signup(submitForm) {
+function Signup({submitForm}) {
     const [values, setValues] = useState({
         first_name: "",
         last_name: "",

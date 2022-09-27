@@ -1,10 +1,11 @@
 import React from 'react'
+import './Signup/Signup.css'
 
 function SignupFormSuccess() {
   return (
     <div className='container'>
         <div className='app-wrapper'>
-            <hi className='form-success'>Account Created</hi>
+            <h1 className='form-success'>Account Created</h1>
         </div>
     </div>
   )
